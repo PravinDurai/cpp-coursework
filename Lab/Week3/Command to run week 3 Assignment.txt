@@ -1,0 +1,5 @@
+Command to Run
+
+Assignment1 : g++ Employee.cpp Main.cpp -o Main
+Assignment2 : g++ Standard.cpp NextDay.cpp TwoDay.cpp Main.cpp -o Main
+Assignment3 : g++ Account.cpp Caccount.cpp Saccount.cpp Main.cpp -o Main

@@ -1,0 +1,5 @@
+Command to Run
+
+Assignment2 :
+Assignment3 : g++ MyList.cpp ListOperations.cpp Main.cpp -o Main
+Assignment4 : g++ MyList.cpp ListOperations.cpp Main.cpp -o Main

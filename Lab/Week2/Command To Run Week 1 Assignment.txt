@@ -1,0 +1,3 @@
+Command to Run Assignment 1 : g++ Module.cpp Student.cpp StudentMain.cpp -o Main
+Command to Run Assignment 2 : g++ Rainfall.cpp Main.cpp -o Main
+Command to Run Assignment 3 : g++ NumberGuessingGame.cpp Main.cpp -o Main

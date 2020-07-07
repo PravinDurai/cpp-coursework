@@ -1,0 +1,6 @@
+Assignment3 : g++ StringCapitalisation.cpp -o Main
+Input : Hello Pravin,How are you! Hope you are doing well?
+
+Assignment5 : g++ Main.cpp -o Main
+Input : (int (Main(){Hello Pravin{How are you}[()}])) -- False Scenario
+Input : (int (Main(){Hello Pravin{How are you}[()]})) -- True Scenario

@@ -1,0 +1,2 @@
+Assignment 2: g++ FibonacciFunction.cpp Main.cpp -o Main
+Assignment 3: g++ Comparison.cpp -o Main

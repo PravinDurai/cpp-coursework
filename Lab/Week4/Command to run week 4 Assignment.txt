@@ -1,0 +1,5 @@
+Command to Run
+
+Assignment1 : g++ Employee.cpp SeniorEmployee.cpp StandardEmployee.cpp TraineeEmployee.cpp Main.cpp -o Main
+Assignment2 : g++ Standard.cpp NextDay.cpp TwoDay.cpp Main.cpp -o Main
+Assignment3 : g++ Circle.cpp Oval.cpp Rectangle.cpp Shape.cpp Square.cpp Triangle.cpp Main.cpp -o Main
